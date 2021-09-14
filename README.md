@@ -1,5 +1,5 @@
 # OlympicsDataset-Analysis
-A basic Q&A with the sole objective to analysis the given data set.<br>
+A basic Q&A with the sole objective of analysing the given data set.<br>
 
 QUESTIONS<br>
 1. In how many cities Summer Olympics is held so far?<br>
